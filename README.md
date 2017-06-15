@@ -1,3 +1,3 @@
 # creativecoding
 
-some snippets
+some processing sketches
