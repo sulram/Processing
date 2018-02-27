@@ -1,5 +1,5 @@
 /**
- * Biopainter 1.0
+ * BioPainter 1.0
  * 
  * Software for drawing masks for PD
  */

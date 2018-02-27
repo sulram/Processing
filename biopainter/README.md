@@ -1,4 +1,4 @@
-# biopainter 1.0
+# BioPainter 1.0
 
 Processing app that creates PNG alpha masks and saves it on a given directory.  
 Created to help some friends do projection mapping on plants ;)

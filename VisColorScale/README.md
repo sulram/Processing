@@ -37,4 +37,4 @@ You can also draw a rectangle with all the palette colors:
       scale.drawRect(0, height / 2 - 50, width, 100);
     }
 
-![VisColorScale](VisColorScale.png)
+![](_thumb_color_scale.png)
